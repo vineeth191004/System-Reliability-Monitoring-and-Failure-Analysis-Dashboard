@@ -37,7 +37,7 @@ Dataset features include:
 | Failure Type | Category of failure |
 
 Dataset Source:  
-UCI Machine Learning Repository
+UCI Machine Learning Repository - kaggle dataset
 
 ---
 
@@ -77,5 +77,3 @@ Heatmap showing relationships between machine parameters and failures.
 - Machine Learning Concepts
 
 ---
-
-## Project Structure
